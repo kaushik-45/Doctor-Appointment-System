@@ -39,8 +39,11 @@ Key Features:
 Technology Stack:
 
 Frontend: HTML,CSS,REACT JS.
+
 Backend: NODE JS,EXPRESS JS,MONGOOSE.
+
 Database: MONGO DB.
+
 Authentication: JSON Web Tokens (JWT).
 
  
